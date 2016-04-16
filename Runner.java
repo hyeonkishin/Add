@@ -1,3 +1,4 @@
 public class Runner {
-main
+public static void main(String[] args){
+}
 }
