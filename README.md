@@ -5,3 +5,5 @@ HoHoHo
 uhxdhazctzcrhacrgaxhmcmzcm.
 
 contributors test
+
+conflict test
