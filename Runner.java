@@ -5,6 +5,7 @@ public class Runner {
          for (int i = 2; i <= 10; i++){
              System.out.println("Step: " + i);
 			 System.out.println("My name is CAPaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
+			 System.out.println("현기 추가");
          }
 
 
